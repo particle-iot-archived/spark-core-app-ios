@@ -1,8 +1,10 @@
 # Spark iOS Application
 
-This is official application of Spark Devices for the Spark Core. It provides key functionality of SmartConfig and Tinker.
+This is the open source version of the iOS app from Spark Labs, Inc. for controlling the Spark Core. It provides key functionality of SmartConfig and Tinker.
 
 ## Building
+
+*USERS MUST DOWNLOAD THE SMART CONFIG LIBRARY FROM TEXAS INSTRUMENTS, AGREE TO THAT LICENSE, AND ADD IT TO THIS APP. MORE THOROUGH INSTRUCTIONS WILL BE PROVIDED IN THE FUTURE.  FEEL FREE TO SUBMIT PULL REQUESTS WITH GOOD BUILD INSTRUCTIONS.* :smile:
 
 This project is designed to be build againt iOS 7 SDK and will not work with others. It does makes use of third-party
 libraries which are bundled. Those include GCDAsyncSocket and CocoaLumberjack.

@@ -11,7 +11,7 @@ libraries which are bundled. Those include GCDAsyncSocket and CocoaLumberjack.
 
 ## Design
 
-This application does not save any data locally expect account information (which is saved in Keychain). All data is
+This application does not save any data locally except account information (which is saved in Keychain). All data is
 retrieved from the Spark Core API at launch.
 
 Key classes include

@@ -63,7 +63,7 @@
 
 - (IBAction)reportBug:(id)sender
 {
-    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://www.github.com/spark/ios-app/issues"]];
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://www.github.com/particle-iot/ios-app/issues"]];
 }
 
 @end
